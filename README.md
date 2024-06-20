@@ -1,9 +1,10 @@
+![CODER!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCwOkXnx0GXEDhPi7z8Jqe2RDwESRdUR2og&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Melvin Donato</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melvindonato&label=Profile%20views&color=0e75b6&style=flat" alt="melvindonato" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melvindonato" alt="melvindonato" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Melvin-Donato" alt="Melvin Donato" /></a> </p>
 
 - 🔭 I’m currently working on **DM Technology**
 
@@ -13,15 +14,15 @@
 
 - 🤝 I’m looking for help with **Full stack new Proyects**
 
-- 👨‍💻 All of my projects are available at [Here in Github](Here in Github)
+- 👨‍💻 All of my projects are available at [https://github.com/elcibermago/Melvin-Donato](https://github.com/elcibermago/Melvin-Donato)
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/melvin-orlando-donato-montilla-756a2378?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZxu8PJ5sQCe3vaGS5jRR%2BQ%3D%3D)
 
 - 💬 Ask me about **Java,C#,Oracle and SQL Server**
 
 - 📫 How to reach me **melvin_d015@yahoo.es**
 
-- 📄 Know about my experiences [Linkedin profile](Linkedin profile)
+- 📄 Know about my experiences [https://www.linkedin.com/in/melvin-orlando-donato-montilla-756a2378?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZxu8PJ5sQCe3vaGS5jRR%2BQ%3D%3D](https://www.linkedin.com/in/melvin-orlando-donato-montilla-756a2378?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZxu8PJ5sQCe3vaGS5jRR%2BQ%3D%3D)
 
 - ⚡ Fun fact **I'm a funny person.**
 
@@ -51,4 +52,4 @@ Melvin Donato is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![CODER!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCwOkXnx0GXEDhPi7z8Jqe2RDwESRdUR2og&usqp=CAU)
+
