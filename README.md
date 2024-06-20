@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/melvindonato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melvindonato" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/melvindonatomontilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvindonatomontilla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/melvin-orlando-donato-montilla-756a2378/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvindonatomontilla" height="30" width="40" /></a>
 <a href="https://web.facebook.com/melvinorlando.donatomontilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melvinorlandodonatomontilla" height="30" width="40" /></a>
 <a href="https://www.instagram.com/melvindmontilla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melvindmontilla" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCFE9vLNdHVff3JLobxoHC8A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@MelvinDonato" height="30" width="40" /></a>
